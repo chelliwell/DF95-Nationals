@@ -16,6 +16,9 @@
 #>
 
 #
+# At DOS prompt:
+# C:\Users\Colin.LINCOLNAD\Documents\LRSC Results\DF95Nats2026\git> powershell .\ConvertHmsHtml.ps1 -inputfile ..\test.html -outputfile git\index.html
+#
 # git add index.html
 # git commit -m "Updated results"
 # git push
