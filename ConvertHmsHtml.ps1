@@ -16,7 +16,9 @@
 #>
 
 #
-#
+# git add index.html
+# git commit -m "Updated results"
+# git push
 #
 
 param(
